@@ -1,0 +1,6 @@
+{
+  "name": "Diet Challenge 12 Minggu — Sistem Turun BB & Kunci Metabolisme",
+  "description": "Program diet 12 minggu lengkap dengan 400 resep lokal & kafe, 24 ilustrasi olahraga rumahan tanpa alat, tracker Excel otomatis, 25 prompt AI, dan protokol anti-yoyo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
